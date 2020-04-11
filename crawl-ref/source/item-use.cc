@@ -35,6 +35,7 @@
 #include "hints.h"
 #include "invent.h"
 #include "item-prop.h"
+#include "known-items.h"
 #include "item-status-flag-type.h"
 #include "items.h"
 #include "level-state-type.h"
